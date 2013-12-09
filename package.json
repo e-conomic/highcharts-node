@@ -1,0 +1,28 @@
+{
+  "name": "highcharts-node",
+  "version": "0.0.0",
+  "description": "A tool to generate charts using hicharts api",
+  "main": "lib/main.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/e-conomic/highcharts-node.git"
+  },
+   "devDependencies": {
+    "mocha" : "",    
+  },
+  "keywords": [
+    "[charts",
+    "highchart",
+    "highcharts",
+    "chart]"
+  ],
+  "author": "eduardpreda",
+  "license": "BSD",
+  "readmeFilename": "readme.txt"
+}
