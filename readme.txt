@@ -1,3 +1,8 @@
+Archived
+======
+Tech Leads: Repository archived due to inactivity in more than 6 months.
+Please remember to add a CODEOWNERS file to the root of the repository when unarchiving.
+
 This module intends to provide ease of generation of charts, using HighCharts API. 
 It is highliy recomended to lookup to http://api.highcharts.com/highcharts for a complete reference of highcarts options and possibilities.
 
